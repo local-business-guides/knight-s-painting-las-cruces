@@ -23,6 +23,9 @@
 - [Finding affordable painters Las Cruces homeowners can hire](https://local-business-guides.github.io/knight-s-painting-las-cruces/affordable-painters-las-cruces/): Searching affordable painters Las Cruces? Plan your project, compare written scopes, and ask about free estimates in Las Cruces.
 - [Painter Las Cruces homeowners can prepare to hire](https://local-business-guides.github.io/knight-s-painting-las-cruces/painter-las-cruces/): Painter Las Cruces hiring guide: prepare your home, discuss repairs, and plan access with Knight's Painting in Las Cruces.
 
+## Newsroom
+- [Knight's Painting Shares Resource for Las Cruces Painting Projects](https://local-business-guides.github.io/knight-s-painting-las-cruces/news/2026-10-25-knight-s-painting-shares-resource-for-las-cruces-p/): Knight's Painting has released a guide to Las Cruces painters, with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-25)
+
 ## Pages
 - [Las Cruces Painters in New Mexico](https://local-business-guides.github.io/knight-s-painting-las-cruces/): Give your Las Cruces home or business a fresh finish with painting, surface repairs, and coatings suited to desert conditions. Call +1575-323-0670.
 - [About and Contact Knight's Painting](https://local-business-guides.github.io/knight-s-painting-las-cruces/about/): About Knight's Painting, Las Cruces.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/knight-s-painting-las-cruces/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/knight-s-painting-las-cruces/news/rss.xml)
 - [Main resource site](https://knights-painting-las-cruces.localwebsites.chatgpt.site)

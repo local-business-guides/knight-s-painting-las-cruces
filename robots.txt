@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/knight-s-painting-las-cruces/sitemap.xml
+Sitemap: https://local-business-guides.github.io/knight-s-painting-las-cruces/news-sitemap.xml
